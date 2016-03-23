@@ -1,0 +1,43 @@
+{
+  "name": "Angular2Boilerplate",
+  "version": "0.1.0",
+  "description": "Angular2Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+   "dependencies": {
+    "angular2": "2.0.0-beta.0",
+    "systemjs": "0.19.6",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.3",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "5.0.0-beta.0",
+    "zone.js": "0.5.10"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.10.0",
+    "del": "^2.2.0",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.6.0",
+    "gulp-debug": "^2.0.1",
+    "gulp-inject": "^1.2.0",
+    "gulp-rimraf": "^0.1.1",
+    "gulp-sass": "^2.1.1",
+    "gulp-sass-glob-import": "^0.1.0",
+    "gulp-sourcemaps": "^1.5.1",
+    "gulp-tslint": "^1.4.4",
+    "gulp-typescript": "^2.5.0",
+    "gulp-uglify": "^1.5.1",
+    "superstatic": "^3.0.0",
+    "typescript": "^1.7.3"
+  },
+  "keywords": [
+    "angular2",
+    "typescript",
+    "sass",
+    "gulp"
+  ],
+  "author": "André Kirchner",
+  "license": "MIT"
+}
